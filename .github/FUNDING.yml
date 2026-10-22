@@ -1,7 +1,5 @@
+github: [] 
 
-
-github: Paras367
-
- custom:
-   - https://softwarelabs.vercel.app/
-
+custom:
+  - https://paras367.github.io/
+  - https://bevenu.vercel.app/
